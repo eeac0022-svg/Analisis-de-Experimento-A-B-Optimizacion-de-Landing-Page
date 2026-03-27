@@ -54,9 +54,9 @@ Comparamos si el incremento en la tasa de conversión de la página B fue produc
 
 ## 🚀 Conclusiones de Negocio
 
-1.  **Ganadora: Landing Page B.** Supera a la versión A tanto en volumen de conversiones como en el valor monetario de las mismas.
+1.  **Landing Page B.** Supera a la versión A tanto en volumen de conversiones como en el valor monetario de las mismas.
 2.  **Significancia:** Los resultados son altamente confiables ($p \approx 0$).
-3.  **Recomendación:** Implementar la versión B de forma definitiva y optimizar las campañas de las fuentes de tráfico con mayor CR (Ads y Email).
+3.  **Recomendación:** Implementar la versión B de forma para nuevos reclutamientos y compras sencillas y optimizar las campañas de las fuentes de tráfico con mayor CR (Ads y Email).
 
 -----
 
